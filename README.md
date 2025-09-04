@@ -4,7 +4,6 @@
 This project uses **Behave (BDD)** + **Selenium** with **Page Object Model (POM)** and generates **Allure** reports (JSON & HTML) for the Zen portal login/logout flows.
 
 **Portal:** https://v2.zenclass.in/login
-**Test user provided in task:** bala8065@gmail.com / Bala@8065
 
 ## Project Structure
 ```
